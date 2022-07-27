@@ -4,7 +4,7 @@
 
 ### Class Day 1
 
-etc...
+Token: A digital placeholder on blockchain that represents something; It can have a user defined behavior
 ```
 System.out.println("hello world");
 ```
