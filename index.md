@@ -1,4 +1,4 @@
-## Colombia University Pre College /n Blockchain Course
+## Colombia University Pre College - Blockchain Course
 
 
 
