@@ -4,7 +4,7 @@
 
 ### Class Day 7
 
-#### PM: Speaker - Jamiel Sheikh ~ Founder & CEO, Chainhaus
+#### <u> PM: Speaker - Jamiel Sheikh ~ Founder & CEO, Chainhaus </u>
 
 Token: A digital placeholder on blockchain that represents something; It can have a user defined behavior
 
