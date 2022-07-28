@@ -13,4 +13,4 @@ New DeFi: DeFi is a darwinian, gamified (game theory - insentives), crowedsource
 
 ### Class Day 8
 
-#### AM: Smart Contracts
+#### <span style="text-decoration: underline"> AM: Smart Contracts </span>
