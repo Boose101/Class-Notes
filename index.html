@@ -106,9 +106,18 @@
 
 <script type="text/javascript">
 var allSpan = document.getElementsByTagName('span');
-
+ 
+window.onload = allSpan.style.display="none";
+ 
 for(var x = 0; x < allSpan.length; x++)
 {
+    window.onload = function onload() {
+     var childList = this.parentNode.getElementsByTagName('LI');
+      for(var y = 0; y< childList.length;y++){
+       childList[y].style.display="none";
+      }
+    }
+     
     allSpan[x].onclick=function()
     {
         if(this.parentNode)
