@@ -11,3 +11,6 @@ Token: A digital placeholder on blockchain that represents something; It can hav
 Old DeFi: DeFi allows new ways of trading, swapping or "staking" tokens driven by financial motives.
 New DeFi: DeFi is a darwinian, gamified (game theory - insentives), crowedsourced, and public system to create products. 
 
+### Class Day 8
+
+#### AM: Smart Contracts
